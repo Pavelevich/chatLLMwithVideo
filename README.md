@@ -96,5 +96,6 @@ To use this script, you’ll need the following:
 - Some libraries may require additional configurations based on your system.
 
 ## Credits
+PAVEL CHMIRENKO
 
 Developed using advanced AI and computer vision technologies such as OpenCV, YOLOv8, DeepFace, and GPT models.
