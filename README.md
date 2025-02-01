@@ -1,5 +1,6 @@
 # ChatGPT Vision - Camera Interaction Script
-file:///home/pavel/PycharmProjects/camera/Pasted%20image.png
+
+![image](https://github.com/user-attachments/assets/a39716d0-8324-41df-a4d9-356ebd37e6a1)
 
 This script combines computer vision, face analysis, text-to-speech, and speech recognition to create an interactive experience. It uses a camera to detect faces and enables conversations powered by AI models like Whisper and GPT. Additionally, it includes features for emotion and facial characteristic analysis using DeepFace.
 
